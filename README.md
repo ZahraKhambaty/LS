@@ -10,3 +10,4 @@ Important Info:
 4. Stage changes for commit with git add
 5. Commit changes to version history with apt message git commit -m
 6. Review previous changes with git log
+7. Check differnces with git diff
